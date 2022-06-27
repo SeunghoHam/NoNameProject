@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RPG_Project.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E0EDA8BB-21EC-49FD-BE77-ED742963F9BF}</UniqueIdentifier>
+      <UniqueIdentifier>{C2750838-5FA2-40BB-B59A-64961BA145D2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RPG_Project.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{BD0F30F7-D60B-4AD0-BA8C-0E39BE521B9D}</UniqueIdentifier>
+      <UniqueIdentifier>{DB749571-2F68-40E1-848A-020EA8770E33}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RPG_Project">
-      <UniqueIdentifier>{043A85A0-18D5-4BB9-BB57-745D8A46B941}</UniqueIdentifier>
+      <UniqueIdentifier>{53FB33F4-F2D8-4F35-AFFB-405E404C089A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\RPG_Project\MyCharacter.cpp">
       <Filter>Source\RPG_Project</Filter>
