@@ -1826,3 +1826,499 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.06.27-12.16.34:095][721]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Sunset_02_Scene86473EF54A22AA463E300BA5118F6E8A.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Scene/Sunset/Sunset_02_Scene.umap'
 [2022.06.27-12.16.34:125][721]AssetCheck: New page: 애셋 저장: Sunset_02_Scene
 [2022.06.27-12.16.34:125][721]LogContentValidation: Display: World /Game/Scene/Sunset/Sunset_02_Scene.Sunset_02_Scene 유효성 검사
+[2022.06.27-12.18.06:338][586]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.27-12.18.06:355][586]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.27-12.18.10:279][ 49]LogContentBrowser: Attempting asset rename: NewFolder -> Assts_Store
+[2022.06.27-12.18.10:279][ 49]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.27-12.18.36:816][742]LogDirectoryWatcher: Display: A directory notification failed for 'D:/RPG_Project/RPG_Project/RPG_Project/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.27-12.18.36:816][742]LogDirectoryWatcher: Display: A directory notification failed for 'D:/RPG_Project/RPG_Project/RPG_Project/Content/Developers/User/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.27-12.18.36:816][742]LogDirectoryWatcher: Display: A directory notification failed for 'D:/RPG_Project/RPG_Project/RPG_Project/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.27-12.18.46:356][596]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.27-12.18.46:374][596]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.27-12.18.50:483][ 79]LogContentBrowser: Attempting asset rename: NewFolder -> Assets_Store
+[2022.06.27-12.18.50:484][ 79]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.27-12.18.53:320][333]LogTexture: Display: 텍스처 빌드: DeprecatedTexture86278F414F7A731F547B8EB271B71C7C (BGRA8, 128X128)
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap:PersistentLevel.BossyEnemyPreviewMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap:PersistentLevel.BossyEnemyPreviewMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap_C' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.SKEL_BossyEnemyPreviewMap_C:ReceiveBeginPlay' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.SKEL_BossyEnemyPreviewMap_C:ReceiveTick' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:461][333]LogMetaData: Removing '/Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.SKEL_BossyEnemyPreviewMap_C' ref from Metadata '/Game/BossyEnemy/Maps/BossyEnemyPreviewMap.PackageMetaData'
+[2022.06.27-12.18.53:551][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/BossyEnemyPreviewMap_BuiltData87BC454A4E7DEA0960DE2C95A56F87E1.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap_BuiltData.uasset'
+[2022.06.27-12.18.53:579][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_IdleBD2D97AB4C0948A906C18698F63BB9BA.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_Idle.uasset'
+[2022.06.27-12.18.53:604][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_ReactionHits_uneditedF7477D1E4DB75988C34728A402EDCDCD.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_ReactionHits_unedited.uasset'
+[2022.06.27-12.18.53:622][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_ReactionHit_BFBA0ED9249402173659BF19A43F6BF1A.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_B.uasset'
+[2022.06.27-12.18.53:642][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_ReactionHit_F3E42ECBF4DFAC692FF14AEB4A9A6A15F.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_F.uasset'
+[2022.06.27-12.18.53:662][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_ReactionHit_L922918FC48F1F73545AB7396142A1A28.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_L.uasset'
+[2022.06.27-12.18.53:682][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_ReactionHit_R40339AC544874CAFF88036A64936F6F2.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_R.uasset'
+[2022.06.27-12.18.53:702][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_BattleEntrance_InP6DEA3E6B453D8871CF054E8542FC0D42.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Boss_BattleEntrance_InP.uasset'
+[2022.06.27-12.18.53:725][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Parried_InPAEDA5398445D6567976BA3A275A32585.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Boss_Parried_InP.uasset'
+[2022.06.27-12.18.53:745][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Staggered_InP5C09C44E446521524BA9F19ABBDD2C9E.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Boss_Staggered_InP.uasset'
+[2022.06.27-12.18.53:769][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_ChargedCombo_InPBAEA1FA84BF7B1744E8853AA17E4EA33.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_ChargedCombo_InP.uasset'
+[2022.06.27-12.18.53:791][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_HandAndSwordSwing_In987A2A7D45352DE29E6ACFAE0D4ED99D.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_HandAndSwordSwing_InP.uasset'
+[2022.06.27-12.18.53:809][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Running_Simple_InPB325EBA24CF3CF695A0BA99BBB65A2D3.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_Simple_InP.uasset'
+[2022.06.27-12.18.53:829][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Running_WithAOEBlow_6538D05143DFD61CC1353290D3F2B621.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_WithAOEBlow_InP.uasset'
+[2022.06.27-12.18.53:849][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_SwingAndSlam_InP4BC68420435AAF0FAEF805B021C7E0AC.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_SwingAndSlam_InP.uasset'
+[2022.06.27-12.18.53:869][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Swing_InPBA214DB7466E7C04ED8902AC4E466D26.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Swing_InP.uasset'
+[2022.06.27-12.18.53:890][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Uppercut_InP8AEA695E4BF2CD591475938CEFC36F8E.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Uppercut_InP.uasset'
+[2022.06.27-12.18.53:910][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Run_F_InP92AFB0FC4B30877AA98A3A9D4AC060E6.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Run_F_InP.uasset'
+[2022.06.27-12.18.53:931][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_B_InP7E2DAAC041A58F28AF1CB392B6A5FC11.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_B_InP.uasset'
+[2022.06.27-12.18.53:951][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_F_InP125B4E804C0C3F36272BCD9A5FF5F208.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_F_InP.uasset'
+[2022.06.27-12.18.53:971][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_L_InP4A10ACB7457B6E78D9AB3A8DDC5B1E51.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_L_InP.uasset'
+[2022.06.27-12.18.53:990][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_R_InPAC8E56C445781FE1F1835682ADFBC638.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_R_InP.uasset'
+[2022.06.27-12.18.54:009][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_BattleEntrance_RMFF83A5E44A246CB8E758E88ADB1C029F.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_BattleEntrance_RM.uasset'
+[2022.06.27-12.18.54:029][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Parried_RMB8744B3746189D536F1FA0A284F6DFF2.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_Parried_RM.uasset'
+[2022.06.27-12.18.54:047][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Staggered_RM9F7D268546F3B6AFD98944A5FCE374C7.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_Staggered_RM.uasset'
+[2022.06.27-12.18.54:069][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_ChargedComboAttack_R7AF133DE43624C86F75124B9BDA93DBD.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_ChargedComboAttack_RM.uasset'
+[2022.06.27-12.18.54:090][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_HandAndSwordSwing_RMB7EF3BB44E9B407A2F0CE49F54114C88.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_HandAndSwordSwing_RM.uasset'
+[2022.06.27-12.18.54:111][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Running_Simple_RMC593C067472416B0A1BB2CB5A3CABDAA.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_Simple_RM.uasset'
+[2022.06.27-12.18.54:136][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Running_WithAOEBlow_2B4B609B4F5BF6D075C9BEBD298EB8C2.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_WithAOEBlow_RM.uasset'
+[2022.06.27-12.18.54:158][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_SwingAndSlam_RM6A14F5B14204720998FAF3AB9119A40F.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_SwingAndSlam_RM.uasset'
+[2022.06.27-12.18.54:178][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Swing_RM5C022D2B432B7D6FEF4559974A4A3F0F.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Swing_RM.uasset'
+[2022.06.27-12.18.54:199][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Attack_Uppercut_RMAF6353334B53F59C76C4D4832382B618.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Uppercut_RM.uasset'
+[2022.06.27-12.18.54:219][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Run_F_RM3CCA84BE47D1BDF91422728A8B83962F.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Run_F_RM.uasset'
+[2022.06.27-12.18.54:239][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_B_RM7FA7BEE041E1D16B3AFBA09037EC5BE0.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_B_RM.uasset'
+[2022.06.27-12.18.54:259][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_F_RM0B71EF6241F13D8E3055B29E5AA27BD6.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_F_RM.uasset'
+[2022.06.27-12.18.54:279][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_L_RM97FABEA34E3C7FF0B608BEB85D00BDFF.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_L_RM.uasset'
+[2022.06.27-12.18.54:297][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Walk_R_RM2563DEA94AF70CACA45431A8DD4ABF3D.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_R_RM.uasset'
+[2022.06.27-12.18.54:331][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.27-12.18.54:360][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/BossyEnemyPreviewMap2BB9B2F84D7510183CE480B076D42417.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.umap'
+[2022.06.27-12.18.54:370][333]LogFileHelpers: Saving map 'BossyEnemyPreviewMap' took 0.072
+[2022.06.27-12.18.54:396][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/MaterialInstanceDynamic_05AA0E34848447BE0ED9B44859CF32BF2.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_0.uasset'
+[2022.06.27-12.18.54:414][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/MaterialInstanceDynamic_18E544AA24EA91EFF4F5A77A8D6C357CB.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_1.uasset'
+[2022.06.27-12.18.54:432][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/MaterialInstanceDynamic_23063E272456ABF7856199F97B8928C14.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_2.uasset'
+[2022.06.27-12.18.54:449][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/MaterialInstanceDynamic_361AF8B57468E7708BB691F9E79951668.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_3.uasset'
+[2022.06.27-12.18.54:467][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_Floor25498EDE43A20A9A14EBA5A1386B2DE4.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_Floor.uasset'
+[2022.06.27-12.18.54:485][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_Floor_Inst3CD269274872F49E243919B18DE8E7BE.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_Floor_Inst.uasset'
+[2022.06.27-12.18.54:504][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_Floor_Inst1AAF74F7D4FFB51D08A7293BD586AAA61.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_Floor_Inst1.uasset'
+[2022.06.27-12.18.54:528][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_UE4Man_Body43905AAC4F0DBB9DDA98A9995AC7E5CE.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_UE4Man_Body.uasset'
+[2022.06.27-12.18.54:550][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_UE4Man_Body_InstB8B683C941A7258333117293D50303E9.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_UE4Man_Body_Inst.uasset'
+[2022.06.27-12.18.54:568][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/M_UE4Man_ChestLogo506ED4FB48CD6A16BA45E4A799F8226C.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/M_UE4Man_ChestLogo.uasset'
+[2022.06.27-12.18.54:587][333]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.27-12.18.54:720][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.06.27-12.18.54:721][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.06.27-12.18.54:766][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/ML_GlossyBlack_Latex_UE42B8C631B46CBD4240EFC9796EB4EC72C.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2022.06.27-12.18.54:769][333]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.27-12.18.54:809][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2022.06.27-12.18.54:828][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/ML_Plastic_Shiny_Beige8717DCE94F9F6F2244CB9ABDC49F6BA1.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2022.06.27-12.18.54:831][333]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.27-12.18.54:888][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/ML_Plastic_Shiny_Beige_LOGO2AF733BD404D4BDA53E80F89A9B2520A.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2022.06.27-12.18.54:891][333]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.27-12.18.54:954][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/ML_SoftMetal_UE47E0C435641CDC58D7874FC8B8968D380.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2022.06.27-12.18.54:971][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/T_ML_Aluminum01A9D6CF8741231DE29A402883B514ABCB.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2022.06.27-12.18.54:989][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/T_ML_Aluminum01_N8A0C02854CEA38E7CB16DF8BFDA8352C.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2022.06.27-12.18.55:010][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/T_ML_Rubber_Blue_01_DE8A4F4F14FF1E61129ADDCBD456D7FB5.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2022.06.27-12.18.55:025][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/T_ML_Rubber_Blue_01_N50549D2F409CF4A4467AD882CC329DFE.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2022.06.27-12.18.55:125][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/SK_Mannequin_UE4_WithWeapon42703B434A2915318675A8AB22F9C841.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon.uasset'
+[2022.06.27-12.18.55:148][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/SK_Mannequin_UE4_WithWeapon_Anim5C74D6F44AE0C1B037A725ADD111D9C1.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Anim.uasset'
+[2022.06.27-12.18.55:183][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/SK_Mannequin_UE4_WithWeapon_Phys731AFB7144E072F29CEAA78BC1517217.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_PhysicsAsset.uasset'
+[2022.06.27-12.18.55:186][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/SK_Mannequin_UE4_WithWeapon_SkelCCCF847743623B2CFF9150B1619F342C.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Skeleton.uasset'
+[2022.06.27-12.18.55:201][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/UE4Man_Logo_NE826662A40E3C60535D2CAA9078C427E.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Textures/UE4Man_Logo_N.uasset'
+[2022.06.27-12.18.55:213][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/UE4_LOGO_CARD0F1FE96C42C7C018FFE11D92C8CFDDE4.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Textures/UE4_LOGO_CARD.uasset'
+[2022.06.27-12.18.55:230][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/UE4_Mannequin_MAT_MASKA9F18F5FA481A6CFA22B0CFA56394B452.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2022.06.27-12.18.55:250][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/UE4_Mannequin_occlusion_Mobile3C3084074E1EDC11A7F9B6A5F7A5A286.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2022.06.27-12.18.55:301][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/UE4_Mannequin__normals6287EB0D44DE81B391422F81AE2FFFCA.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Textures/UE4_Mannequin__normals.uasset'
+[2022.06.27-12.18.55:759][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Maps/BossyEnemyPreviewMap_BuiltData.BossyEnemyPreviewMap_BuiltData' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:760][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_Idle.Boss_Idle' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:761][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_ReactionHits_unedited.Boss_ReactionHits_unedited' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:761][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_ReactionHit_B.Boss_ReactionHit_B' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:761][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_ReactionHit_F.Boss_ReactionHit_F' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:762][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_ReactionHit_L.Boss_ReactionHit_L' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:762][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/Boss_ReactionHit_R.Boss_ReactionHit_R' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:762][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Boss_BattleEntrance_InP.Boss_BattleEntrance_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:763][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Boss_Parried_InP.Boss_Parried_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:763][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Boss_Staggered_InP.Boss_Staggered_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:763][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_ChargedCombo_InP.Boss_Attack_ChargedCombo_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:764][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_HandAndSwordSwing_InP.Boss_Attack_HandAndSwordSwing_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:764][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_Simple_InP.Boss_Attack_Running_Simple_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:765][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_WithAOEBlow_InP.Boss_Attack_Running_WithAOEBlow_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:765][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_SwingAndSlam_InP.Boss_Attack_SwingAndSlam_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:765][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Swing_InP.Boss_Attack_Swing_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:766][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Uppercut_InP.Boss_Attack_Uppercut_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:766][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Movement/Boss_Run_F_InP.Boss_Run_F_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:766][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_B_InP.Boss_Walk_B_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:767][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_F_InP.Boss_Walk_F_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:767][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_L_InP.Boss_Walk_L_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:767][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_R_InP.Boss_Walk_R_InP' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:768][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Boss_BattleEntrance_RM.Boss_BattleEntrance_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:768][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Boss_Parried_RM.Boss_Parried_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:768][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Boss_Staggered_RM.Boss_Staggered_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:769][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_ChargedComboAttack_RM.Boss_Attack_ChargedComboAttack_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:769][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_HandAndSwordSwing_RM.Boss_Attack_HandAndSwordSwing_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:769][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_Simple_RM.Boss_Attack_Running_Simple_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:770][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_WithAOEBlow_RM.Boss_Attack_Running_WithAOEBlow_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:770][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_SwingAndSlam_RM.Boss_Attack_SwingAndSlam_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:770][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Swing_RM.Boss_Attack_Swing_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:771][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Uppercut_RM.Boss_Attack_Uppercut_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:771][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Movement/Boss_Run_F_RM.Boss_Run_F_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:771][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_B_RM.Boss_Walk_B_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:772][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_F_RM.Boss_Walk_F_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:772][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_L_RM.Boss_Walk_L_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:773][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_R_RM.Boss_Walk_R_RM' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:781][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialInstanceDynamic_1.MaterialInstanceDynamic_1' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialInstanceDynamic_2.MaterialInstanceDynamic_2' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialInstanceDynamic_3.MaterialInstanceDynamic_3' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_Floor.M_Floor' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_Floor_Inst.M_Floor_Inst' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:782][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_Floor_Inst1.M_Floor_Inst1' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_UE4Man_Body.M_UE4Man_Body' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_UE4Man_Body_Inst.M_UE4Man_Body_Inst' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:783][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:784][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:784][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:784][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon.SK_Mannequin_UE4_WithWeapon' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Anim.SK_Mannequin_UE4_WithWeapon_Anim' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_PhysicsAsset.SK_Mannequin_UE4_WithWeapon_PhysicsAsset' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Skeleton.SK_Mannequin_UE4_WithWeapon_Skeleton' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Textures/UE4Man_Logo_N.UE4Man_Logo_N' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:785][333]LogUObjectGlobals: Warning: 'Object /Game/BossyEnemy/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.18.55:812][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.06.27-12.18.55:819][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.27-12.18.55:825][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.27-12.18.55:832][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.27-12.18.55:840][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.27-12.18.55:847][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.27-12.18.55:854][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.27-12.18.55:861][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.27-12.18.55:868][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.27-12.18.55:877][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.27-12.18.55:886][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.27-12.18.55:894][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.27-12.18.55:901][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.27-12.18.55:909][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.06.27-12.18.55:918][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.27-12.18.55:927][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.27-12.18.55:935][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.27-12.18.55:944][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.06.27-12.18.55:952][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.27-12.18.55:965][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.27-12.18.55:979][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.27-12.18.55:987][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.27-12.18.55:997][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.06.27-12.18.56:007][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.27-12.18.56:023][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.27-12.18.56:033][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.27-12.18.56:067][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.06.27-12.18.56:101][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.06.27-12.18.56:111][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.06.27-12.18.56:121][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.27-12.18.56:132][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.27-12.18.56:144][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.06.27-12.18.56:157][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.27-12.18.56:166][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.06.27-12.18.56:205][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.27-12.18.56:215][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.27-12.18.56:241][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.06.27-12.18.56:271][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.27-12.18.56:295][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.27-12.18.56:305][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.06.27-12.18.56:320][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.27-12.18.56:331][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.06.27-12.18.56:341][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.06.27-12.18.56:349][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.06.27-12.18.56:403][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.27-12.18.56:430][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.27-12.18.56:509][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.27-12.18.56:519][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.06.27-12.18.56:527][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.27-12.18.56:536][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.27-12.18.56:547][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.27-12.18.56:576][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.27-12.18.56:587][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.06.27-12.18.56:597][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.06.27-12.18.56:617][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.06.27-12.18.56:628][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.27-12.18.56:638][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.06.27-12.18.56:651][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.27-12.18.56:661][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.06.27-12.18.56:670][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.27-12.18.56:678][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.06.27-12.18.56:688][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.06.27-12.18.56:733][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.06.27-12.18.56:742][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.27-12.18.56:815][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.06.27-12.18.56:832][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.27-12.18.56:865][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.06.27-12.18.56:902][333]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Boss_Idle162207A241739BE541D38AB2ECC6410E.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/BossyEnemy/Animations/RootMotion/Boss_Idle.uasset'
+[2022.06.27-12.18.56:987][333]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2022.06.27-12.18.56:987][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_B_RM.Boss_Walk_B_RM 유효성 검사
+[2022.06.27-12.18.56:987][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_R_RM.Boss_Walk_R_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_L_RM.Boss_Walk_L_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Walk_F_RM.Boss_Walk_F_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Movement/Boss_Run_F_RM.Boss_Run_F_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Uppercut_RM.Boss_Attack_Uppercut_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Swing_RM.Boss_Attack_Swing_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_SwingAndSlam_RM.Boss_Attack_SwingAndSlam_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_WithAOEBlow_RM.Boss_Attack_Running_WithAOEBlow_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_Simple_RM.Boss_Attack_Running_Simple_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_HandAndSwordSwing_RM.Boss_Attack_HandAndSwordSwing_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_ChargedComboAttack_RM.Boss_Attack_ChargedComboAttack_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_Staggered_RM.Boss_Staggered_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_Parried_RM.Boss_Parried_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: ObjectRedirector /Game/BossyEnemy/Animations/RootMotion/Boss_Idle.Boss_Idle 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/RootMotion/Boss_BattleEntrance_RM.Boss_BattleEntrance_RM 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_R_InP.Boss_Walk_R_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_L_InP.Boss_Walk_L_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_F_InP.Boss_Walk_F_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Walk_B_InP.Boss_Walk_B_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Movement/Boss_Run_F_InP.Boss_Run_F_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Uppercut_InP.Boss_Attack_Uppercut_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Swing_InP.Boss_Attack_Swing_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_SwingAndSlam_InP.Boss_Attack_SwingAndSlam_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_WithAOEBlow_InP.Boss_Attack_Running_WithAOEBlow_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_Running_Simple_InP.Boss_Attack_Running_Simple_InP 유효성 검사
+[2022.06.27-12.18.56:988][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_HandAndSwordSwing_InP.Boss_Attack_HandAndSwordSwing_InP 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Attacks/Boss_Attack_ChargedCombo_InP.Boss_Attack_ChargedCombo_InP 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Boss_Staggered_InP.Boss_Staggered_InP 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Boss_Parried_InP.Boss_Parried_InP 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/InPlace/Boss_BattleEntrance_InP.Boss_BattleEntrance_InP 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_R.Boss_ReactionHit_R 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_L.Boss_ReactionHit_L 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_F.Boss_ReactionHit_F 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_ReactionHit_B.Boss_ReactionHit_B 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_ReactionHits_unedited.Boss_ReactionHits_unedited 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/Animations/Boss_Idle.Boss_Idle 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Skeleton /Game/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Skeleton.SK_Mannequin_UE4_WithWeapon_Skeleton 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: MapBuildDataRegistry /Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap_BuiltData.BossyEnemyPreviewMap_BuiltData 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/M_Floor.M_Floor 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets_Store/BossyEnemy/Materials/M_Floor_Inst.M_Floor_Inst 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets_Store/BossyEnemy/Materials/M_Floor_Inst1.M_Floor_Inst1 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_1.MaterialInstanceDynamic_1 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_2.MaterialInstanceDynamic_2 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/MaterialInstanceDynamic_3.MaterialInstanceDynamic_3 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: MaterialFunction /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 유효성 검사
+[2022.06.27-12.18.56:989][333]LogContentValidation: Display: MaterialFunction /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: MaterialFunction /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: MaterialFunction /Game/Assets_Store/BossyEnemy/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Material /Game/Assets_Store/BossyEnemy/Materials/M_UE4Man_Body.M_UE4Man_Body 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets_Store/BossyEnemy/Materials/M_UE4Man_Body_Inst.M_UE4Man_Body_Inst 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: Texture2D /Game/Assets_Store/BossyEnemy/Textures/UE4Man_Logo_N.UE4Man_Logo_N 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets_Store/BossyEnemy/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: PhysicsAsset /Game/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_PhysicsAsset.SK_Mannequin_UE4_WithWeapon_PhysicsAsset 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: SkeletalMesh /Game/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon.SK_Mannequin_UE4_WithWeapon 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: World /Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap 유효성 검사
+[2022.06.27-12.18.56:990][333]LogContentValidation: Display: AnimSequence /Game/Assets_Store/BossyEnemy/SkeletalMesh/SK_Mannequin_UE4_WithWeapon_Anim.SK_Mannequin_UE4_WithWeapon_Anim 유효성 검사
+[2022.06.27-12.18.59:218][445]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 97
+[2022.06.27-12.18.59:659][462]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 87
+[2022.06.27-12.18.59:823][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 77
+[2022.06.27-12.18.59:887][473]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2022.06.27-12.19.00:621][498]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2022.06.27-12.19.01:008][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2022.06.27-12.19.01:086][521]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2022.06.27-12.19.01:173][524]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2022.06.27-12.19.05:511][713]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2022.06.27-12.19.05:635][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.27-12.19.05:660][715]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap
+[2022.06.27-12.19.05:661][715]Cmd: MAP LOAD FILE="../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.27-12.19.05:661][715]LightingResults: New page: 라이팅 빌드
+[2022.06.27-12.19.05:661][715]LoadErrors: New page: 맵 로드중: BossyEnemyPreviewMap.umap
+[2022.06.27-12.19.05:665][715]LogWorld: UWorld::CleanupWorld for Sunset_02_Scene, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-12.19.05:666][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-12.19.05:666][715]MapCheck: New page: 맵 체크
+[2022.06.27-12.19.05:666][715]LightingResults: New page: 라이팅 빌드
+[2022.06.27-12.19.05:696][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.27-12.19.05:701][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.27-12.19.05:701][715]LogAudio: Display: Audio Device (ID: 1) registered with world 'BossyEnemyPreviewMap'.
+[2022.06.27-12.19.05:729][715]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.27-12.19.05:729][715]LogAIModule: Creating AISystem for world BossyEnemyPreviewMap
+[2022.06.27-12.19.05:751][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.27-12.19.05:769][715]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.27-12.19.05:769][715]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.21ms.
+[2022.06.27-12.19.05:769][715]LogFileHelpers: Loading map 'BossyEnemyPreviewMap' took 0.109
+[2022.06.27-12.19.06:565][750]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2022.06.27-12.19.07:213][792]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2022.06.27-12.19.07:520][805]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.06.27-12.19.08:116][830]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.06.27-12.19.08:137][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.27-12.19.08:137][830]PIE: New page: PIE 세션: BossyEnemyPreviewMap (2022. 6. 28. 오전 6:19:08)
+[2022.06.27-12.19.08:140][830]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.27-12.19.08:143][830]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.27-12.19.08:143][830]LogPlayLevel: Creating play world package: /Game/Assets_Store/BossyEnemy/Maps/UEDPIE_0_BossyEnemyPreviewMap
+[2022.06.27-12.19.08:167][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023877s)
+[2022.06.27-12.19.08:169][830]LogAIModule: Creating AISystem for world BossyEnemyPreviewMap
+[2022.06.27-12.19.08:170][830]LogPlayLevel: PIE: World Init took: (0.002977s)
+[2022.06.27-12.19.08:170][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets_Store/BossyEnemy/Maps/BossyEnemyPreviewMap.BossyEnemyPreviewMap to /Game/Assets_Store/BossyEnemy/Maps/UEDPIE_0_BossyEnemyPreviewMap.BossyEnemyPreviewMap (0.027307s)
+[2022.06.27-12.19.08:181][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.27-12.19.08:183][830]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.27-12.19.08:183][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.27-12.19.08:183][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.27-12.19.08:185][830]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.27-12.19.08:185][830]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.27-12.19.08:189][830]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-12.19.08:189][830]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-12.19.08:208][830]LogAudioMixer: Display: Using Audio Device 스피커(USB PnP Audio Device)
+[2022.06.27-12.19.08:208][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.27-12.19.08:208][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.27-12.19.08:208][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.27-12.19.08:209][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.27-12.19.08:209][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.27-12.19.08:209][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.27-12.19.08:262][830]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.06.27-12.19.08:262][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.27-12.19.08:262][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.27-12.19.08:262][830]LogInit: FAudioDevice initialized.
+[2022.06.27-12.19.08:262][830]LogAudio: Display: Audio Device (ID: 2) registered with world 'BossyEnemyPreviewMap'.
+[2022.06.27-12.19.08:284][830]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.06.27-12.19.08:284][830]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.06.27-12.19.08:284][830]LogUObjectGlobals: Warning: 'Class /Game/Blueprints/GameMode/RPGGameMode.RPGGameMode_C' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.27-12.19.08:284][830]LogLoad: Game class is 'GameModeBase'
+[2022.06.27-12.19.08:317][830]LogWorld: Bringing World /Game/Assets_Store/BossyEnemy/Maps/UEDPIE_0_BossyEnemyPreviewMap.BossyEnemyPreviewMap up for play (max tick rate 0) at 2022.06.27-21.19.08
+[2022.06.27-12.19.08:336][830]LogWorld: Bringing up level for play took: 0.051182
+[2022.06.27-12.19.08:337][830]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.27-12.19.08:372][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.06.27-12.19.08:372][830]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.06.27-12.19.08:375][830]PIE: 서버가 로그인했습니다.
+[2022.06.27-12.19.08:378][830]PIE: 에디터에서 플레이 총 시작 시간 0.253초입니다.
+[2022.06.27-12.19.09:086][862]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.06.27-12.19.09:117][862]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.06.27-12.19.09:264][870]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.06.27-12.19.09:428][879]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.06.27-12.19.09:502][881]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.06.27-12.19.10:335][915]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.06.27-12.19.10:506][923]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.06.27-12.19.10:736][937]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.06.27-12.19.10:821][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.06.27-12.19.21:747][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-12.19.21:747][ 89]LogWorld: BeginTearingDown for /Game/Assets_Store/BossyEnemy/Maps/UEDPIE_0_BossyEnemyPreviewMap
+[2022.06.27-12.19.21:747][ 89]LogWorld: UWorld::CleanupWorld for BossyEnemyPreviewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-12.19.21:752][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-12.19.21:767][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.27-12.19.21:770][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-12.19.21:777][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.27-12.19.21:777][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-12.19.21:778][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-12.19.21:800][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-12.19.21:805][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.06.27-12.19.21:833][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.27-12.19.26:637][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.06.27-12.19.26:665][574]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Day/Day_01_Scene.Day_01_Scene
+[2022.06.27-12.19.26:665][574]Cmd: MAP LOAD FILE="../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Scene/Day/Day_01_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.27-12.19.26:665][574]LightingResults: New page: 라이팅 빌드
+[2022.06.27-12.19.26:665][574]LoadErrors: New page: 맵 로드중: Day_01_Scene.umap
+[2022.06.27-12.19.26:671][574]LogWorld: UWorld::CleanupWorld for BossyEnemyPreviewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-12.19.26:672][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-12.19.26:672][574]MapCheck: New page: 맵 체크
+[2022.06.27-12.19.26:672][574]LightingResults: New page: 라이팅 빌드
+[2022.06.27-12.19.26:678][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.27-12.19.26:683][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.06.27-12.19.26:683][574]LogAudio: Display: Audio Device (ID: 1) registered with world 'Day_01_Scene'.
+[2022.06.27-12.19.26:684][574]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2022.06.27-12.19.26:686][574]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2022.06.27-12.19.26:686][574]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2022.06.27-12.19.26:689][574]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.27-12.19.26:689][574]LogAIModule: Creating AISystem for world Day_01_Scene
+[2022.06.27-12.19.26:699][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.06.27-12.19.26:714][574]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.27-12.19.26:714][574]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.163ms.
+[2022.06.27-12.19.26:714][574]LogFileHelpers: Loading map 'Day_01_Scene' took 0.049
+[2022.06.27-12.19.38:723][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.27-12.19.39:515][979]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-12.19.39:567][979]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.27-12.19.41:390][979]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.823 s
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: 
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: Cannot remove redirection from /Game/BossyEnemy/Animations/RootMotion/Boss_Idle.Boss_Idle, it was not registered
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: Stack: 
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffb0356988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffaff28a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffafd84b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c74f0cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c74ea8f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fff9beb3f98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c17a04e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c1870b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa93c859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa93e071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa92246be UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa92a7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa9290337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:400][979]LogOutputDevice: Error: [Callstack] 0x00007fffa9283632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaebcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaad9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaee389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaad4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffef08e858 USER32.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffef08e299 USER32.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaef7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa92b2233 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa924d485 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c21c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff9c74e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff93df6bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff768e70e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff768e72ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff768d7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff94660703 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff94659de2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff946d80e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fff9465cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa93c859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa93e071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa92246be UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa92a7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa9290337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffa9283632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaebcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaad9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaee389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaad4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffef08e858 USER32.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffef08e299 USER32.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007fffdaaef914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ff685eb8848 UE4Editor.exe!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ff685ed117c UE4Editor.exe!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ff685ed125a UE4Editor.exe!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ff685ee52bd UE4Editor.exe!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ff685ee7fea UE4Editor.exe!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ffff0867034 KERNEL32.DLL!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: [Callstack] 0x00007ffff0fc2651 ntdll.dll!UnknownFunction []
+[2022.06.27-12.19.41:401][979]LogOutputDevice: Error: 
+[2022.06.27-12.19.41:405][979]LogStats:                SubmitErrorReport -  0.000 s
+[2022.06.27-12.19.50:053][979]LogStats:                    SendNewReport -  8.647 s
+[2022.06.27-12.19.50:053][979]LogStats:             FDebug::EnsureFailed - 10.486 s
+[2022.06.27-12.19.50:103][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.27-12.19.50:117][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.27-12.19.50:123][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.27-12.19.50:128][979]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-12.19.50:154][979]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-12.19.50:154][979]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-12.20.02:229][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/Day/Day_01_Scene" FILE="../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Scene/Day/Day_01_Scene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.27-12.20.02:236][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.06.27-12.20.02:245][654]LogSavePackage: Moving '../../../../../RPG_Project/RPG_Project/RPG_Project/Saved/Day_01_Scene0D5BF00B4296D3453348B8B0CFBC8A15.tmp' to '../../../../../RPG_Project/RPG_Project/RPG_Project/Content/Scene/Day/Day_01_Scene.umap'
+[2022.06.27-12.20.02:269][654]AssetCheck: New page: 애셋 저장: Day_01_Scene
+[2022.06.27-12.20.02:269][654]LogContentValidation: Display: World /Game/Scene/Day/Day_01_Scene.Day_01_Scene 유효성 검사
