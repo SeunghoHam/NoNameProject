@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RPG_Project-7158.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\RPG_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\MyCharacter.cpp.obj"
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\RPG_Project.cpp.obj"
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\MyCharacter.gen.cpp.obj"
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\RPG_Project.init.gen.cpp.obj"
+"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\Default.rc2.res"
+/OUT:"D:\UnrealEngineProject\RPG_Project\RPG_Project\Intermediate\Build\Win64\UE4Editor\Development\RPG_Project\UE4Editor-RPG_Project-7158.lib"
+/INCLUDE:IMPLEMENT_MODULE_RPG_Project

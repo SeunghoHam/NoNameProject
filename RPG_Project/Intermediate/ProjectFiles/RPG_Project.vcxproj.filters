@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RPG_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E0EDA8BB-21EC-49FD-BE77-ED742963F9BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPG_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RPG_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BD0F30F7-D60B-4AD0-BA8C-0E39BE521B9D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RPG_Project">
+      <UniqueIdentifier>{043A85A0-18D5-4BB9-BB57-745D8A46B941}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_Project\MyCharacter.cpp">
+      <Filter>Source\RPG_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG_Project\MyCharacter.h">
+      <Filter>Source\RPG_Project</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RPG_Project\RPG_Project.Build.cs">
+      <Filter>Source\RPG_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RPG_Project\RPG_Project.cpp">
+      <Filter>Source\RPG_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG_Project\RPG_Project.h">
+      <Filter>Source\RPG_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
